@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "Entities\Entities.csproj", "{57B15B96-A2C1-4845-BA38-D01875611AFD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Business", "Business\Business.csproj", "{F98DE446-E495-4B78-8874-080A2D0AAF89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workaround1", "Workaround1\Workaround1.csproj", "{9479BA0C-7820-478B-9CFE-FBC4D304B4BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57B15B96-A2C1-4845-BA38-D01875611AFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57B15B96-A2C1-4845-BA38-D01875611AFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57B15B96-A2C1-4845-BA38-D01875611AFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57B15B96-A2C1-4845-BA38-D01875611AFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F98DE446-E495-4B78-8874-080A2D0AAF89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F98DE446-E495-4B78-8874-080A2D0AAF89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F98DE446-E495-4B78-8874-080A2D0AAF89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F98DE446-E495-4B78-8874-080A2D0AAF89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9479BA0C-7820-478B-9CFE-FBC4D304B4BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9479BA0C-7820-478B-9CFE-FBC4D304B4BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9479BA0C-7820-478B-9CFE-FBC4D304B4BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9479BA0C-7820-478B-9CFE-FBC4D304B4BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0D1DA90-51CB-498F-87DB-2FCC18B9A0AB}
+	EndGlobalSection
+EndGlobal
